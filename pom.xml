@@ -49,5 +49,9 @@
 		<module>eureka-server</module>
 		<module>helpBuy-dataService</module>
 		<module>product-view-service-feign</module>
+		<module>config-server</module>
+		<module>hystrix-dashboard</module>
+		<module>productServiceTurbine</module>
+		<module>productServiceZuul</module>
 	</modules>
 </project>
